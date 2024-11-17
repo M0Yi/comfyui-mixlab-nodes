@@ -31,7 +31,7 @@ fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/releases/latest`)
       font-weight: 800;
       letter-spacing: 2px;
   }"
-  href="https://github.com/shadowcz007/comfyui-mixlab-nodes/releases/">https://github.com/shadowcz007/comfyui-mixlab-nodes/releases</a>
+  href="https://ghproxy.net/https://github.com/shadowcz007/comfyui-mixlab-nodes/releases/">https://github.com/shadowcz007/comfyui-mixlab-nodes/releases</a>
       `)
 
       // window.alert(
